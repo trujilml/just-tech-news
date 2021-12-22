@@ -1,2 +1,2 @@
 # just-tech-news
-https://safe-fjord-25115.herokuapp.com/
+https://guarded-lake-82211.herokuapp.com/
